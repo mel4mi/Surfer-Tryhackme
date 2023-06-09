@@ -9,7 +9,7 @@ Please replace the IP values in "exploit.py" and "main.py" with your target IP
 ```
 ip = "your_target_ip"
 ```
-
+## Check login
 To verify successful login on the site:
 
 ```
@@ -20,7 +20,7 @@ Expected output format:
 ```
 626a3f263723cc4e3f0e43355da54a95
 ```
-
+## Exploit
 To run the exploit:
 ```
 python exploit.py
