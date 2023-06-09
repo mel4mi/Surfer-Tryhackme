@@ -1,5 +1,5 @@
 # Surfer-TryHackMe
-Exploit for the Surfer room in TryHackMe. Written in Python 3.10.
+Exploit for the Surfer room in TryHackMe. Written in Python 3.10
 
 Requirements:
 ```
