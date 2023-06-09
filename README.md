@@ -5,6 +5,10 @@ Requirements:
 ```
 pip install -r requirements.txt
 ```
+Please replace the IP values in "exploit.py" and "main.py" with your target IP
+```
+ip = "Target ip"
+```
 
 To verify successful login on the site:
 
